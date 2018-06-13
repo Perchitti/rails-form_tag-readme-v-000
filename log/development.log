@@ -141,6 +141,7 @@ Started GET "/assets/turbolinks.self-2db6ec539b9190f75e1d477b305df53d12904d5cafd
 
 
 Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 74.72.137.151 at 2018-05-30 22:28:32 +0000
+<<<<<<< HEAD
 
 
 Started GET "/" for 74.72.137.151 at 2018-05-30 22:34:59 +0000
@@ -179,3 +180,5 @@ Did you mean?  redirect_to):
   Rendered /usr/local/rvm/gems/ruby-2.3.1/gems/actionpack-4.2.10/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.5ms)
   Rendered /usr/local/rvm/gems/ruby-2.3.1/gems/actionpack-4.2.10/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
   Rendered /usr/local/rvm/gems/ruby-2.3.1/gems/actionpack-4.2.10/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (59.1ms)
+=======
+>>>>>>> 3e0f5527dbd3ccb32b962bda45c1be0541d83f2c
